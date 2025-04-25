@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "slider.h": "c",
+        "freertos.h": "c",
+        "gd32h7xx_it.h": "c",
+        "task.h": "c",
+        "user.h": "c",
+        "usart.h": "c",
+        "gd32h7xx_usart.h": "c",
+        "app_task.h": "c",
+        "modbus-private.h": "c",
+        "stdint.h": "c",
+        "modbus.h": "c",
+        "modbus-rtu-private.h": "c",
+        "errno.h": "c",
+        "modbus-version.h": "c",
+        "modbus-rtu.h": "c",
+        "stdbool.h": "c",
+        "gd32h7xx_gpio.h": "c",
+        "assert.h": "c",
+        "gd32h7xx.h": "c",
+        "gd32h7xx_libopt.h": "c",
+        "queue.h": "c",
+        "core_cm7.h": "c",
+        "array": "c",
+        "iterator": "c",
+        "vector": "c"
+    },
+    "C_Cpp.inactiveRegionOpacity": 0.5
+}
