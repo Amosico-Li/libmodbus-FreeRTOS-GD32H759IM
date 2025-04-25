@@ -79,6 +79,3 @@ static void Modbus_Slave_Tsk(void* para) {
         vTaskDelay(pdMS_TO_TICKS(500));
     }
 }
-
-
-
